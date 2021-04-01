@@ -1,5 +1,3 @@
-import "./styles.css";
-var a = 2;
 var visualization = d3plus
   .viz()
   .container("#viz1")
